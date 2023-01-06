@@ -38,8 +38,8 @@
     background-image: url('images/header_bg.png'), url(images/developer.png);
     background-repeat: no-repeat;
     background-position: bottom right, left;
-    padding-left: 20px;
-    padding-top: 10px;
+    /* padding-left: 20px;
+    padding-top: 10px; */
     
 }
 /* header & navigation styles */
@@ -72,7 +72,7 @@ nav li{
 /* banner styles */
 .banner{
     display: flex;
-    gap: 163px;
+    /* gap: 163px; */
     align-items: center;
     margin: 0px 200px;
 }
